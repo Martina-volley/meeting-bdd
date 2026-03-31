@@ -2,7 +2,7 @@
 
 ## 目標
 
-這套部署檔讓你可以在新電腦快速完成：
+這套部署檔可以在新電腦快速完成：
 
 1. 建立 conda 執行環境（預設 `mcpSev`）
 2. 安裝 meeting transcript skill 所需套件
@@ -10,7 +10,7 @@
 4. 執行 preflight 環境檢查
 5. 一鍵跑 meeting -> transcript -> raw-requirements
 
-不包含 BDD skill 的安裝。你已說明 Claude 端已有 BDD skill。
+不包含 BDD skill 的安裝。
 
 ## 檔案說明
 
